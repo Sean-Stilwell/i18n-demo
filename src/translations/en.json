@@ -3,6 +3,9 @@
         "greeting": "Hello, SEG3525!",
         "ex1": "This is the English version of my site. We can also translate it to French!",
         "lang": "Français",
-        "message": "We can use our translations in our components."
+        "message": "We can use our translations in our components.",
+        "header": "I18n Demo",
+        "link1": "Home",
+        "link2": "About"
     }
 }
